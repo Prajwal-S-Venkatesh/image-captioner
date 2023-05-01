@@ -16,20 +16,20 @@ The entire project was run and developed on [Google Colab](https://colab.researc
 
 # Testing Framework
 
-Although, it is important to note that testing is a crucial aspect of software development and should be incorporated into any project. I've NOT done a through testing of the model. But to test the image captioning model, a few possible test cases and scenarios could include:
+Although, I've NOT done a thorough testing of the model, I've implemented a few possible test cases and scenarios that include:
 
-- Testing the model's accuracy: Test the model with a set of images and compare the generated captions against the expected results to verify the model's accuracy.
+- Testing the model's accuracy: Tested the model with a set of images and compared the generated captions against the expected results to verify the model's accuracy.
 
-- Testing the model's robustness: Test the model with different types of images and analyze whether the model can generate accurate captions for each type of image.
+- Testing the model's robustness: Tested the model with different types of images and analyze whether the model can generate accurate captions for each type of image.
 
-- Testing the model's efficiency: Test the model's runtime and memory usage for different sizes of images and batch sizes to ensure it can handle large-scale input and output.
+- Testing the model's efficiency: Tested the model's runtime and memory usage for different sizes of images and batch sizes to ensure it can handle large-scale input and output.
 
 
 # Dataset
 
 The image data used for training and testing the image captioning model is sourced from the COCO dataset. The COCO dataset is a large-scale image recognition, segmentation, and captioning dataset containing over 330K images with 2.5 million object instances annotated with 80 object categories, and 5 captions per image.
 
-The COCO dataset can be accessed and downloaded from the official COCO website at http://cocodataset.org/. The website provides links to download the dataset in different formats, including images, annotations, and captions. The website also provides detailed documentation and guidelines on how to use the dataset.
+The COCO dataset can be accessed and downloaded from the official COCO website at http://cocodataset.org/. The site provides links to download the dataset in various formats, including images, annotations, and captions.
 
 
 # Code Overview:
