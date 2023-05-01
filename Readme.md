@@ -1,5 +1,7 @@
 # Final Project - Spring 2023 Big Data Technologies (CSP-554-03)
 
+> Course taught by [Prof. Jawahar Panchal](https://www.iit.edu/directory/people/jawahar-panchal)
+
 The Neural Image Caption Generation with Visual Attention project aims to implement a Neural Image Capton Generaton model with Visual Atention using PyTorch. Image captioning is the task of generating natural language descriptions of images, and it has a wide range of applications, from assistive technology to automated content creation. While traditional image captioning models generate captions without considering which parts of the image are relevant to the generated caption, a recent innovation in this field has led to the development of visual attention mechanisms, which enable models to focus on important parts of the image while generating captions. In this project, I’ve used the COCO (Common Objects in COntext) dataset to train an encoder-decoder model with visual attention. The project aims to investigate the development of an image captioning model using state-of-the-art deep learning techniques using PyTorch and Transformers in Python. The model uses a pre-trained image encoder to extract image features and a pre-trained language decoder to generate captions. The image encoder and language decoder are connected using a visual attention mechanism that allows the decoder to focus on different parts of the image while generating the caption.
 
 # Installation:
