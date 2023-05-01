@@ -1,6 +1,6 @@
 # Installation:
 
-The entire project was run and developed on [Google Colab](https://colab.research.google.com/) and is exported as a notebook file. Please refer to [image_captioner.ipynb](https://github.com/Prajwal-S-Venkatesh/image-captioner/blob/main/image_captioner.ipynb) for further details and insights.
+The entire project was run and developed on [Google Colab](https://colab.research.google.com/) and is exported as a notebook file. Please refer to [image_captioner.ipynb](https://github.com/Prajwal-S-Venkatesh/image-captioner/blob/main/image_captioner.ipynb) for further details and insights. Download the notebook and run locally or import the notebook on GColab and run all code snippets. (NOTE: this entire notebook can take more than 10 Hrs to completely run and finish execution)
 
 > To download the dataset please vist https://cocodataset.org/#download
 
